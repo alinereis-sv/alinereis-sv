@@ -1,5 +1,6 @@
-## Hi  👋  
-alinereis/alinereis-sv It's a ✨ special ✨ repository.
+## Olá  👋  
+It's my ✨ special ✨ repository.
+alinereis/alinereis-sv
 
 🔹 Engenheira | Pesquisadora | Fundadora da Blauw IA
 
