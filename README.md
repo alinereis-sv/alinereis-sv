@@ -32,3 +32,7 @@ Estou sempre buscando colaborações e parcerias nas áreas de:
 📫 Entre em contato
 📌 Email: alinereis.sv@gmail.com
 📌 @Blauw IA
+
+
+### 🐍 Jogo da Cobrinha
+![Snake animation](https://github.com/alinereis-sv/alinereis-sv/blob/output/github-contribution-grid-snake.svg)
